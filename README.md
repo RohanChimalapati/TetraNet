@@ -4,6 +4,7 @@
 Project TetraNet is a novel research project used for wildfire mitigation using footage from rapid nanosatellite deployed into space. We created a nanosatellite that utilizes computer vision models, image segmentation U-Net convolutional networks, linear regression artifical neural networks, and heuristic fire spread simulators in order to accurately apply wildfire patterns to a real-world setting. The idea is to allow anyone to access quality terrain analysis for a fraction of the cost. 
 
 
+
 Practical Applications
 -
 Our project is a low-cost alternative to traditional satellites deployed into space that track geographical features and trends. Current methods of mitigation are often expensive and inaccessible for general public use, with data decentralized and hard to orchestrate for wildfire responses. TetraNet explores the viability of an open-source application with a device that anyone can use. The goal with TetraNet is to provide means for both monitoring ongoing wildfires as well as predicitng future ones with preventative measures.
@@ -91,4 +92,4 @@ With the trending temperature increase as a result of global warming, our nanosa
 
 ## Contributors
 
-Project TetraNet was created by Abhinav Bichal, Sarvesh Sathish, and Pranay Shah for the 2021 Microsoft Azure AI competition. 
+Project TetraNet was created by Abhinav Bichal, Sarvesh Sathish, and Rohan Chimalapati for the 2021 Microsoft Azure AI competition. 
